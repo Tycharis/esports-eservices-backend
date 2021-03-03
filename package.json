@@ -18,7 +18,7 @@
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "sequelize": "^5.21.9",
     "sqlite3": "^4.2.0"
   }
